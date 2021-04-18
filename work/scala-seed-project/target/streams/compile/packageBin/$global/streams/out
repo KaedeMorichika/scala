@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /work/scala-seed-project/target/scala-2.12/scala-seed-project_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /work/scala-seed-project/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Location.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /work/scala-seed-project/target/scala-2.12/classes/example/Location.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /work/scala-seed-project/target/scala-2.12/classes/example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /work/scala-seed-project/target/scala-2.12/classes/example/Main.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
